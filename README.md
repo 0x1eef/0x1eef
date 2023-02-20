@@ -1,20 +1,5 @@
-**General**
-
-* [trip.rb](https://github.com/0x1eef/trip.rb#readme) is a concurrent tracer
-  that can pause and resume the code it is tracing.
-* [ryo.rb](https://github.com/0x1eef/ryo.rb#readme) implements prototype-based
-  inheritance, in Ruby.
-
-**IPC**
-
-* [xchan.rb](https://github.com/0x1eef/xchan.rb#readme) is an easy to use InterProcess
-  Communication (IPC) library.
-* [lockf.rb](https://github.com/0x1eef/lockf.rb#readme) is a C extension that provides a
-  Ruby interface to [lockf(3)](https://man.freebsd.org/cgi/man.cgi?query=lockf&sektion=3).
-
-**nanoc**
-
-* [nanoc-webpack.rb](https://github.com/0x1eef/nanoc-webpack.rb#readme) is a nanoc filter
-  that integrates webpack with nanoc.
-* [nanoc-gunzip.rb](https://github.com/0x1eef/nanoc-gunzip.rb#readme) is a nanoc filter
-  that can compress nanoc content with gunzip (gzip).
+**Welcome** 👋 
+<br>
+I maintain a curated list of my open source projects at <a href="https://0x1eef.github.io" target="_blank">https://0x1eef.github.io</a>
+<br>
+I'm also on GitLab: <a href="https://gitlab.com/0x1eef">gitlab.com/0x1eef/</a>
