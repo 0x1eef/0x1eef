@@ -1,0 +1,4 @@
+👋 *Welcome* \\
+- I maintain a curated list of my open source projects at [[https://0x1eef.github.io][0x1eef.github.io/]]
+- I write posts from time to time at [[https://0x1eef.github.io/posts][0x1eef.github.io/posts]]
+- I'm also on [[https://gitlab.com/0x1eef][on GitLab]]
