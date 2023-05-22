@@ -24,7 +24,7 @@
 * [blocklist.pf](https://github.com/0x1eef/blocklist.pf#readme)
   is a utility that generates PF tables from common blocklists.
 * [libfetch](https://github.com/0x1eef/libfetch#readme)
-  is a port of FreeBSD's libfetch to OpenBSD.
+  is a portable implementation of FreeBSD's libfetch.
 * [portzap](https://github.com/0x1eef/portzap#readme)
   is a utility for staying up to date with the
   [HardenedBSD ports tree](https://git.hardenedbsd.org/hardenedbsd/ports).
