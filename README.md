@@ -26,7 +26,7 @@
 * [libfetch](https://github.com/0x1eef/libfetch#readme)
   is a portable implementation of FreeBSD's libfetch.
 * [portzap](https://github.com/0x1eef/portzap#readme)
-  is a utility for staying up to date with the
+  is a utility for managing a local copy of the
   [HardenedBSD ports tree](https://git.hardenedbsd.org/hardenedbsd/ports).
 * [ports](https://github.com/0x1eef/ports#readme)
   is a collection of unofficial FreeBSD / OpenBSD ports.
@@ -36,3 +36,4 @@
   is a concurrent tracer.
 * [ryo.rb](https://github.com/0x1eef/ryo.rb#readme)
   is an implementation of prototype-based inheritance, in Ruby.
+
