@@ -14,7 +14,7 @@
 
 **web**
 * [vite-plugin-ejs](https://github.com/0x1eef/vite-plugin-ejs#readme)
-  is a Vite plugin for building one or more files from an EJS template.
+  is a Vite plugin for producing one or more files from an EJS template.
 * [nanoc-webpack.rb](https://github.com/0x1eef/nanoc-webpack.rb#readme)
   is a nanoc filter that integrates webpack with nanoc.
 * [nanoc-gunzip.rb](https://github.com/0x1eef/nanoc-gunzip.rb#readme)
