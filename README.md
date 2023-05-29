@@ -21,8 +21,8 @@
   is a nanoc filter that can compress content with gunzip / gzip.
 
 **BSD**
-* [blocklist.pf](https://github.com/0x1eef/blocklist.pf#readme)
-  is a C program that generates PF tables from common blocklists.
+* [blockem](https://github.com/0x1eef/blockem#readme)
+  is a utility that generates PF tables from common blocklists.
 * [libfetch](https://github.com/0x1eef/libfetch#readme)
   is a portable implementation of FreeBSD's libfetch.
 * [portzap](https://github.com/0x1eef/portzap#readme)
