@@ -16,9 +16,9 @@
 * [vite-plugin-ejs](https://github.com/0x1eef/vite-plugin-ejs#readme)
   is a Vite plugin for producing one or more files from an EJS template.
 * [nanoc-webpack.rb](https://github.com/0x1eef/nanoc-webpack.rb#readme)
-  is a nanoc filter that integrates webpack with nanoc.
+  integrates webpack with nanoc.
 * [nanoc-gzip.rb](https://github.com/0x1eef/nanoc-gzip.rb#readme)
-  is a nanoc filter that can compress content in the gzip format.
+  is a nanoc filter that compresses content in the gzip format.
 
 **BSD**
 * [blocklist](https://github.com/0x1eef/blocklist#readme)
