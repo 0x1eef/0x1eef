@@ -17,8 +17,8 @@
   is a Vite plugin for producing one or more files from an EJS template.
 * [nanoc-webpack.rb](https://github.com/0x1eef/nanoc-webpack.rb#readme)
   is a nanoc filter that integrates webpack with nanoc.
-* [nanoc-gunzip.rb](https://github.com/0x1eef/nanoc-gunzip.rb#readme)
-  is a nanoc filter that can compress content with gunzip / gzip.
+* [nanoc-gzip.rb](https://github.com/0x1eef/nanoc-gzip.rb#readme)
+  is a nanoc filter that can compress content in the gzip format.
 
 **BSD**
 * [blocklist](https://github.com/0x1eef/blocklist#readme)
