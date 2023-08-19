@@ -30,7 +30,7 @@
 * [ports](https://github.com/0x1eef/ports#readme)
   is a collection of unofficial FreeBSD / OpenBSD ports.
 
-**Other**
+**Misc**
 
 * [trip.rb](https://github.com/0x1eef/trip.rb#readme)
   is a concurrent tracer.
