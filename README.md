@@ -39,4 +39,5 @@
 * [uname.rb](https://github.com/0x1eef/uname.rb#readme)
   is a C extension that provides a Ruby interface to
   [uname(3)](https://man.freebsd.org/cgi/man.cgi?query=uname&sektion=3).
-
+* [cmd.rb](https://github.com/0x1eef/cmd.rb#readme)
+  is a library for building command-line applications in Ruby.
