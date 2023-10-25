@@ -14,7 +14,7 @@
 * [vite-plugin-ejs](https://github.com/0x1eef/vite-plugin-ejs#readme)
   is a Vite plugin for producing one or more files from an EJS template.
 * [photon](https://github.com/0x1eef/photon#readme)
-  is a Chrome extension that provides information about your public
+  is a Chromium extension that provides information about your public
   IP address.
 * [nanoc-webpack.rb](https://github.com/0x1eef/nanoc-webpack.rb#readme)
   integrates webpack into nanoc.
