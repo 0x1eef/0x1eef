@@ -1,46 +1,109 @@
-**IPC**
+<strong>Ruby</strong>
+<section>
+  <span class="category">IPC</span>
+  <ul class="projects">
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/xchan.rb#readme">xchan.rb</a>
+      is an easy to use InterProcess Communication (IPC) library.
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/lockf.rb#readme">lockf.rb</a>
+      is a C extension that provides a Ruby interface to
+      <a href="https://man.freebsd.org/cgi/man.cgi?query=uname&sektion=3">lockf(3)</a>.
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/test-cmd.rb#readme">test-cmd.rb</a>
+      provides access to the output streams of a spawned process.
+    </li>
+  </ul>
 
-* [xchan.rb](https://github.com/0x1eef/xchan.rb#readme)
-  is an easy to use InterProcess Communication (IPC) library.
-* [lockf.rb](https://github.com/0x1eef/lockf.rb#readme)
-  is a C extension that provides a Ruby interface to
-  [lockf(3)](https://man.freebsd.org/cgi/man.cgi?query=uname&sektion=3).
-* [test-cmd.rb](https://github.com/0x1eef/test-cmd.rb#readme)
-   is a library that provides access to both stdout / stderr of a
-   spawned process.
+  <span class="category">Web</span>
+  <ul class="projects">
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/nanoc-webpack.rb#readme">nanoc-webpack.rb</a>
+      integrates webpack into nanoc.
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/nanoc-gzip.rb#readme">nanoc-gzip.rb</a>
+      integrates gzip compression into nanoc.
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/nanoc-tidy.rb#readme">nanoc-tidy.rb</a>
+      integrates tidy-html5 into nanoc.
+    </li>
+  </ul>
 
-**Web**
+  <span class="category">Misc</span>
+  <ul class="projects">
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/trip.rb#readme">trip.rb</a>
+      is a concurrent tracer.
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/ryo.rb#readme">ryo.rb</a>
+      is an implementation of prototype-based inheritance, in Ruby.
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/uname.rb#readme">uname.rb</a>
+      is a C extension that provides a Ruby interface to
+      <a href="https://man.freebsd.org/cgi/man.cgi?query=uname&sektion=3">uname(3)</a>.
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/cmd.rb#readme">cmd.rb</a>
+      is a library for building command-line applications in Ruby.
+    </li>
+  </ul>
+</section>
 
-* [vite-plugin-ejs](https://github.com/0x1eef/vite-plugin-ejs#readme)
-  is a Vite plugin for producing one or more files from an EJS template.
-* [photon](https://github.com/0x1eef/photon#readme)
-  is a Chromium extension that provides information about your public
-  IP address.
-* [nanoc-webpack.rb](https://github.com/0x1eef/nanoc-webpack.rb#readme)
-  integrates webpack into nanoc.
-* [nanoc-gzip.rb](https://github.com/0x1eef/nanoc-gzip.rb#readme)
-  integrates gzip compression into nanoc.
+<strong>C</strong>
+<section>
+  <span class="category">Network</span>
+  <ul class="projects">
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/blocklist#readme">blocklist</a>
+      generates PF tables from common blocklists.
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/isinetaddr#readme">isinetaddr</a>
+      is a simple C library that validates IPv(4|6) addresses.
+    </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/libfetch#readme">libfetch</a>
+      ports FreeBSD's libfetch to OpenBSD.
+    </li>
+  </ul>
+</section>
 
-**BSD**
+<strong>TypeScript</strong>
+<section>
+  <span class="category">Web</span>
+  <ul class="projects">
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/vite-plugin-ejs#readme">vite-plugin-ejs</a>
+      produces one or more files from an EJS template.
+    </li>
+  </ul>
+  <span>Chromium</span>
+  <ul>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/photon#readme">photon</a>
+      provides information about your public IP address.
+    </li>
+  </ul>
+</section>
 
-* [blocklist](https://github.com/0x1eef/blocklist#readme)
-  is a utility that generates PF tables from common blocklists.
-* [libfetch](https://github.com/0x1eef/libfetch#readme)
-  is a portable implementation of FreeBSD's libfetch.
-* [portzap](https://github.com/0x1eef/portzap#readme)
-  is a utility for managing a local copy of the
-  [HardenedBSD ports tree](https://git.hardenedbsd.org/hardenedbsd/ports).
-* [ports](https://github.com/0x1eef/ports#readme)
-  is a collection of unofficial FreeBSD / OpenBSD ports.
-
-**Misc**
-
-* [trip.rb](https://github.com/0x1eef/trip.rb#readme)
-  is a concurrent tracer.
-* [ryo.rb](https://github.com/0x1eef/ryo.rb#readme)
-  is an implementation of prototype-based inheritance, in Ruby.
-* [uname.rb](https://github.com/0x1eef/uname.rb#readme)
-  is a C extension that provides a Ruby interface to
-  [uname(3)](https://man.freebsd.org/cgi/man.cgi?query=uname&sektion=3).
-* [cmd.rb](https://github.com/0x1eef/cmd.rb#readme)
-  is a library for building command-line applications in Ruby.
+<strong>BSD</strong>
+<section>
+  <span class="category">Misc</span>
+  <ul class="projects">
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/portzap#readme">portzap</a>
+      manages a local copy of the
+      <a target="_blank" href="https://git.hardenedbsd.org/hardenedbsd/ports">hardenedbsd ports tree</a>.
+      </li>
+    <li>
+      <a target="_blank" href="https://github.com/0x1eef/ports#readme">ports</a>
+      contains a collection of unofficial (Free|Open)BSD ports.
+    </li>
+  </ul>
+</section>
