@@ -1,4 +1,7 @@
-👋 *Welcome* \\
-- I maintain a curated list of my open source projects at [[https://0x1eef.github.io][0x1eef.github.io/]]
+👋 *Welcome*
+- I maintain a curated list of my open source projects at [[https://0x1eef.github.io][0x1eef.github.io]]
 - I write posts from time to time at [[https://0x1eef.github.io/posts][0x1eef.github.io/posts]]
-- I'm also [[https://gitlab.com/0x1eef][on GitLab]]
+- Git is decentralized and so am I. Find me elsewhere:
+  - [[https://gitlab.com/0x1eef][gitlab.com/@0x1eef]]
+  - [[https://brew.bsd.cafe/0x1eef][bsd.cafe/@0x1eef]]
+  - [[https://git.hardenedbsd.org/0x1eef][git.hardenedbsd.org/@0x1eef]]
